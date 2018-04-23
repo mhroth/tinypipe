@@ -56,4 +56,4 @@ tpipe_clear(&pipe);
 ```
 
 ## License
-This code is released under the [ISC License](https://opensource.org/licenses/ISC). It is strongly based on Enzien Audio's [HvLightPipe](https://github.com/enzienaudio/heavy/blob/master/src/TinyPipe.h), also released under the ISC license.
+This code is released under the [ISC License](https://opensource.org/licenses/ISC). It is strongly based on [Enzien Audio](https://enzienaudio.com)'s [HvLightPipe](https://github.com/enzienaudio/heavy/blob/master/src/TinyPipe.h), also released under the ISC license.
